@@ -1,6 +1,6 @@
 # bikesharing
 
-The purpose of this analysis is to explore the viability of a bikesharing business in DesMoines, IA, based on data from a successful enterprise in New York City.
+The purpose of this analysis is to explore the viability of a bikesharing business in DesMoines, IA, based on data from a successful enterprise in New York City. The whole Tableau story may be found here: https://public.tableau.com/app/profile/joel5248/viz/BikesharingDeliverable2/Story1?publish=yes
 
 ### Visualization 1
 This line graph demonstrates that the vast majority of rides are less than an hour. I would suggest that most people are using the bikes to reach a particular destination, rather than taking bike tours of the city.
