@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 The purpose of this analysis is to explore the viability of a bikesharing business in DesMoines, IA, based on data from a successful enterprise in New York City. The whole Tableau story may be found here: https://public.tableau.com/app/profile/joel5248/viz/BikesharingDeliverable2/Story1?publish=yes
 
@@ -23,7 +23,7 @@ Again, the same pattern is seen across different genders.
 ![image](https://user-images.githubusercontent.com/84299125/136997268-2e0e443e-2673-4665-8ef5-0f84654b2fd3.png)
 
 ### Visualization 5
-This visualization highlights the huge majority of subscribers who rent in NYC. This, again, will likely not be the same in DesMoines. Subscribers are most likely local customers who use the bikes on a regular basis. This makes sense in New York, where it is advantageous not to own a car if one can avoid it. DesMoines, however, is inhabited almost entirely by car owners, and will therefore see far more balance between subscribers and one-time customers. It is entirely possible that DesMoines could see the same imbalance in user types in favor of one-time customers.
+This visualization highlights the huge majority of subscribers who rent in NYC. This, again, will likely not be the same in DesMoines. Subscribers are most likely local customers who use the bikes on a regular basis. This makes sense in New York, where it is advantageous not to own a car if one can avoid it. DesMoines, however, is inhabited almost entirely by car owners. It is entirely possible that DesMoines could see the same imbalance in user types in favor of one-time customers.
 
 ![image](https://user-images.githubusercontent.com/84299125/136997327-eeb55b3e-96a3-42fb-8303-e60848b4b281.png)
 
